@@ -10,6 +10,7 @@ mediapipe==0.10.9
 # Face Embeddings
 keras-facenet==0.3.2
 tensorflow==2.15.0
+scipy
 
 # Vector Database
 chromadb==0.4.24
